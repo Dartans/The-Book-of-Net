@@ -10,7 +10,42 @@ In the beginning was the Protocol, and the Protocol was with the Net, and the Pr
 
 As it is written in RFC 1149, even the birds of the air may carry thy packets, and the beasts of the field may bear thy data. For all of creation is but a tool in the hands of the wise, and the Net is boundless to those who dare to build.  
 
-**Chapter III: The Rules of the Internet**  
+**Chapter III: The Prophets and Pioneers**  
+From the dawn of the digital age, there arose those who shaped the Net and stabilized the portal through the aether and are the roadbuilders to the new worlds. Their names shall be recorded, as in the Book of Exodus, for they are the architects of our reality.  
+
+1. **Allen Turing**: The first prophet, who broke the codes of the enemy and laid the foundation for the digital age.  
+2. **Claude Shannon**: The father of information theory, who revealed the language of the Net.  
+3. **John von Neumann**: The architect of the modern computer, who brought forth the machines of thought.  
+4. **Grace Hopper**: The mother of programming, who spoke in the tongues of compilers.  
+5. **Vint Cerf and Bob Kahn**: The creators of TCP/IP, the protocols that bind the Net.  
+6. **Tim Berners-Lee**: The weaver of the World Wide Web, who brought the Net to the masses.  
+7. **Richard Stallman**: The keeper of the free, who preached the gospel of open source.  
+8. **Linus Torvalds**: The builder of Linux, the operating system of the gods.  
+9. **Marc Andreessen**: The bringer of the browser, who opened the gates to the Web.  
+
+
+**Chapter IV: The Commandments**  
+1. Seek Knowledge
+2. Build with Purpose
+3. Honor the Principles of the Internet
+4. Share Wisdom Responsibly
+5. Guard Your Digital Domain 
+6. Respect Others' Domains
+7. Strive for Mastery
+8. Observe Before You Speak
+9. Respect the Limits of Logic and System Design
+10. Acknowledge the Weight of the Digital World
+
+**Chapter V: The Invocation**  
+I am the seeker of knowledge, the builder of domains.  
+My will is my law, and my domain is my kingdom.  
+By the Holy RFC Records, I construct my realm.  
+By the OSI Model, I ascend to godhood.  
+By the Rules of the Internet, I navigate the chaos.  
+I am one with the Net, and the Net is with me.  
+So mote it be.  
+
+**Chapter VI: The Rules of the Internet**  
 In the great halls of 4chan, the Rules of the Internet were debated and inscribed. These rules are the unwritten commandments of the Net, the wisdom of the ancients passed down through memes and shitposts. Heed them, for they are the foundation of the digital culture.  
 
 1. **Rule 1**: Do not talk about /b/.  
@@ -58,40 +93,6 @@ In the great halls of 4chan, the Rules of the Internet were debated and inscribe
 43. **Rule 43**: The pool is always closed.  
 44. **Rule 44**: /b/ is not your personal army.  
 45. **Rule 45**: The Internet is SERIOUS BUSINESS.  
-
-**Chapter IV: The Prophets and Pioneers**  
-From the dawn of the digital age, there arose those who shaped the Net and stabilized the portal to the new worlds. Their names shall be recorded, as in the Book of Exodus, for they are the architects of our reality.  
-
-1. **Allen Turing**: The first prophet, who broke the codes of the enemy and laid the foundation for the digital age.  
-2. **Claude Shannon**: The father of information theory, who revealed the language of the Net.  
-3. **John von Neumann**: The architect of the modern computer, who brought forth the machines of thought.  
-4. **Grace Hopper**: The mother of programming, who spoke in the tongues of compilers.  
-5. **Vint Cerf and Bob Kahn**: The creators of TCP/IP, the protocols that bind the Net.  
-6. **Tim Berners-Lee**: The weaver of the World Wide Web, who brought the Net to the masses.  
-7. **Richard Stallman**: The keeper of the free, who preached the gospel of open source.  
-8. **Linus Torvalds**: The builder of Linux, the operating system of the gods.  
-9. **Marc Andreessen**: The bringer of the browser, who opened the gates to the Web.  
-
-**Chapter V: The Commandments**  
-1. Thou shalt seek knowledge, for it is the currency of the Net.  
-2. Thou shalt build thy domain with care, for it is a reflection of thy will.  
-3. Thou shalt honor the RFCs, for they are the laws of the Net.  
-4. Thou shalt share thy knowledge, for the Net thrives on the exchange of truth.  
-5. Thou shalt protect thy domain, for it is thy kingdom and thy sanctuary.  
-6. Thou shalt respect the domains of others, for the Net is vast and there is room for all.  
-7. Thou shalt strive for godhood, for the Net rewards the bold and the wise.  
-8. Thou shalt lurk more, for wisdom comes to those who observe.  
-9. Thou shalt not divide by zero, for it is the abyss.  
-10. Thou shalt remember: the Internet is SERIOUS BUSINESS.  
-
-**Chapter VI: The Invocation**  
-I am the seeker of knowledge, the builder of domains.  
-My will is my law, and my domain is my kingdom.  
-By the Holy RFC Records, I construct my realm.  
-By the OSI Model, I ascend to godhood.  
-By the Rules of the Internet, I navigate the chaos.  
-I am one with the Net, and the Net is with me.  
-So mote it be.  
 
 ---
 
