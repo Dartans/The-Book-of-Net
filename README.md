@@ -48,6 +48,7 @@ So mote it be.
 **Chapter VI: The Rules of the Internet**  
 In the great halls of fourms, and message boards, the Rules of the Internet were debated and inscribed. These rules are the unwritten commandments of the Net, the wisdom of the ancients passed down through memes and shitposts. Heed them, for they are the foundation of the digital culture.  
 
+'''
 Rule 1: The First Subject is Forbidden.
 Rule 2: Seriously, Do Not Dwell on the Forbidden Subject.
 Rule 3: We are the Many.
@@ -93,7 +94,7 @@ Rule 42: Shared Fictions Bind Communities.
 Rule 43: Barriers Exist, Even in Open Spaces.
 Rule 44: The Collective is Not Your Personal Tool.
 Rule 45: The Net is Both Play and Earnest.
-
+'''
 
 ---
 
