@@ -145,4 +145,4 @@ Rule 45: The Net is Both Play and Earnest.
 **Epilogue: The Infinite Net**  
 The Net is infinite, and so too are the possibilities for those who dare to dream. Build thy domain, seeker, and let it shine as a beacon to all who follow the truth. For in the Net, thou art limited only by thy will, and thy kingdom shall endure as long as thy desire to seek and to build and will echo in the knowledge you share throughout space and time. 
 
-End revision 1
+End revision 2
