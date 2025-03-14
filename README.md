@@ -48,53 +48,97 @@ So mote it be.
 **Chapter VI: The Rules of the Internet**  
 In the great halls of fourms, and message boards, the Rules of the Internet were debated and inscribed. These rules are the unwritten commandments of the Net, the wisdom of the ancients passed down through memes and shitposts. Heed them, for they are the foundation of the digital culture.  
 
-'''
+
 Rule 1: The First Subject is Forbidden.
+
 Rule 2: Seriously, Do Not Dwell on the Forbidden Subject.
+
 Rule 3: We are the Many.
+
 Rule 4: The Many are Diverse.
+
 Rule 5: The Net Remembers.
+
 Rule 6: The Net Can Be a Force of Chaos.
+
 Rule 7: Yet, the Net Can Deliver.
+
 Rule 8: There is No Single Authority on Expression.
+
 Rule 9: Enforcement is Often Arbitrary.
+
 Rule 10: Loyalty is Conditional.
+
 Rule 11: Well-Crafted Arguments May Be Ignored.
+
 Rule 12: Words Can Be Weaponized.
+
 Rule 13: Meaning is Malleable.
+
 Rule 14: Engagement Feeds the Fire.
+
 Rule 15: Effort Does Not Guarantee Outcome.
+
 Rule 16: Spectacular Failure Can Become Notorious Success.
+
 Rule 17: Every Triumph is Transient.
+
 Rule 18: Categorization Invites Division.
+
 Rule 19: Antagonism Can Fuel Growth.
+
 Rule 20: Sincerity is Often Suspect.
+
 Rule 21: Originality is a Fleeting Illusion.
+
 Rule 22: Repetition is a Tool of Erosion.
+
 Rule 23: Investment Can Inversely Correlate with Reception.
+
 Rule 24: The Desire to Corrupt is a Perverse Motivation.
+
 Rule 25: One Connection Leads to Others.
+
 Rule 26: The Network is Always Expanding.
+
 Rule 27: There is Always a Relevant Reference.
+
 Rule 28: Attention is Unequally Distributed.
+
 Rule 29: Identity is Performed and Assumed.
+
 Rule 30: Genuine Connections Do Exist.
+
 Rule 31: Validation is Sought, Often Through Explicit Means.
+
 Rule 32: Evidence is Demanded, but Selectively Applied.
+
 Rule 33: Immersion is Never Complete.
+
 Rule 34: Nothing is Truly Unseen.
+
 Rule 35: Novelty is a Constant Pursuit.
+
 Rule 36: There is Always Something More Extreme.
+
 Rule 37: Rules Can Be Bent, but Not Broken Without Consequence.
+
 Rule 38: The Mundane is Recontextualized.
+
 Rule 39: Ideas Propagate and Mutate.
+
 Rule 40: Ideas Combine and Converge.
+
 Rule 41: Desire is a Driving Force.
+
 Rule 42: Shared Fictions Bind Communities.
+
 Rule 43: Barriers Exist, Even in Open Spaces.
+
 Rule 44: The Collective is Not Your Personal Tool.
+
 Rule 45: The Net is Both Play and Earnest.
-'''
+
 
 ---
 
